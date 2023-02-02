@@ -10,5 +10,5 @@ public class Parallelogram extends Shape{
 
 
 
-    String color = "SkyBlue";
+    String color = "wowRed";
 }
