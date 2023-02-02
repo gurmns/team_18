@@ -4,4 +4,5 @@ abstract class Shape {
     private int x, y;
     String color = "Hexagon";
     String color2 = "Blue";
+    String color3 = "wowowowow";
 }
